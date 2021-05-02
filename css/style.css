@@ -526,6 +526,15 @@ text-align:justify;
 padding: 20px;
 align-items: center;
 }
+@media (max-width: 1000px){
+.Erling{
+display: none; 
+}}
+
+@media (max-width: 1000px){
+.Kylian{
+display: none; 
+}}
 
 
 /* ------------------- ARTHUR ----------------------- */
