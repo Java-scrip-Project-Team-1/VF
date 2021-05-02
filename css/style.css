@@ -526,12 +526,12 @@ text-align:justify;
 padding: 20px;
 align-items: center;
 }
-@media (max-width: 1000px){
+@media (max-width: 1500px){
 .screen{
 display: none; 
 }}
 
-@media (max-width: 1000px){
+@media (max-width: 1500px){
 .Kylian{
 display: none; 
 }}
